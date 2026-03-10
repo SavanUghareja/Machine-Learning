@@ -3,3 +3,7 @@ train.txt
 Iris.csv
 test.csv
 train.csv
+max_len.pkl
+tokenizer.pkl
+lstm_model.h5
+qoute_dataset.csv
