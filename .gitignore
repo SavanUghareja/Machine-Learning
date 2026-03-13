@@ -7,3 +7,8 @@ max_len.pkl
 tokenizer.pkl
 lstm_model.h5
 qoute_dataset.csv
+df.pkl
+indices.pkl
+movies_metadata.csv
+tfidf_matrix.pkl
+tfidf.pkl
